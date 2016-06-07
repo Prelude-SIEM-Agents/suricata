@@ -2,6 +2,15 @@
 Suricata
 ========
 
+Information about Prelude integration
+=====================================
+
+To enable Prelude SIEM sensor, you have to run this :
+
+```
+./configure --enable-prelude
+```
+
 Introduction
 ============
 
